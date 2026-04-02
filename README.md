@@ -1,3 +1,3 @@
 # ecommerce-mock-server-react
 
-Sistema simples de commerce em utilizando mock server (json-server) para manipular os produtos
+Sistema simples de commerce em react utilizando mock server (json-server) para manipular os produtos
